@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1531037996 source:c:\users\cws4321123\downloads\phonenummanagement\main.c
+	"common.h"
+	"screenOut.h"
+	"phoneFunc.h"
+
+1530695209 c:\users\cws4321123\downloads\phonenummanagement\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530968120 c:\users\cws4321123\downloads\phonenummanagement\screenout.h
+	"phoneData.h"
+
+1530875354 c:\users\cws4321123\downloads\phonenummanagement\phonedata.h
+
+1531037639 c:\users\cws4321123\downloads\phonenummanagement\phonefunc.h
+	"phoneData.h"
+
+1531037059 source:c:\users\cws4321123\downloads\phonenummanagement\screenout.c
+	"common.h"
+	"phoneData.h"
+
+1531039286 source:c:\users\cws4321123\downloads\phonenummanagement\phonefunc.c
+	"common.h"
+	"phoneData.h"
+	"screenOut.h"
+
